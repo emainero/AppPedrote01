@@ -1,3 +1,3 @@
 # AppPedrote01
-Pruebas para Pedrote 
+Pruebas para Apps 
 Usando Appcelerator Titanium
